@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Open https://ylmzmre.github.io/phone to view it in the browser.
+Open https://ylmzmre.github.io/phone-book to view it in the browser.
 
 ## Available Scripts
 
